@@ -2,7 +2,9 @@
 
 After you add the HCL OneTest Azure Devops Extension as an extension in your Azure DevOps organization, you can use an existing pipeline or create a new one to add the HCL OneTest desktop client test tasks. You can install an agent or the one that you have installed in your default agent pool. You can add the HCL OneTest desktop client tests as tasks to your agent job, configure the task, and then run the task in the Azure DevOps pipeline.
 
-**Before you begin:** Clone the files given the Repositories link. Upload them to your repository.
+**Before you begin:** Clone the files given in this [Repository](https://github.com/hclproducts/HCLOneTest-AzureDevops.git). You can also find link to the repository in the Project Details section of this page. 
+
+Upload the cloned files to your own repository.
 
 **Procedure** 
 
