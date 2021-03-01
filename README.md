@@ -1,3 +1,5 @@
+The HCL OneTest Studio extension enables you to select any type of test available for your project in HCL OneTest™ Server that you can add to your task for the job in the Azure DevOps pipelines.
+
 **1. Open your Organization page in Azure DevOps and complete the following steps:**
 
    	a. Click the project you want to use. 
